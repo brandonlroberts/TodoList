@@ -13,77 +13,77 @@ namespace TodoList.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "/Users/p0s31d0n/Projects/Personal/Blazor/BlazorToDoApp/TodoList/_Imports.razor"
+#line 1 "/Users/p0s31d0n/Projects/Personal/Blazor/NewBlazorToDoListApp/TodoList/_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/p0s31d0n/Projects/Personal/Blazor/BlazorToDoApp/TodoList/_Imports.razor"
+#line 2 "/Users/p0s31d0n/Projects/Personal/Blazor/NewBlazorToDoListApp/TodoList/_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/p0s31d0n/Projects/Personal/Blazor/BlazorToDoApp/TodoList/_Imports.razor"
+#line 3 "/Users/p0s31d0n/Projects/Personal/Blazor/NewBlazorToDoListApp/TodoList/_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "/Users/p0s31d0n/Projects/Personal/Blazor/BlazorToDoApp/TodoList/_Imports.razor"
+#line 4 "/Users/p0s31d0n/Projects/Personal/Blazor/NewBlazorToDoListApp/TodoList/_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "/Users/p0s31d0n/Projects/Personal/Blazor/BlazorToDoApp/TodoList/_Imports.razor"
+#line 5 "/Users/p0s31d0n/Projects/Personal/Blazor/NewBlazorToDoListApp/TodoList/_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "/Users/p0s31d0n/Projects/Personal/Blazor/BlazorToDoApp/TodoList/_Imports.razor"
+#line 6 "/Users/p0s31d0n/Projects/Personal/Blazor/NewBlazorToDoListApp/TodoList/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "/Users/p0s31d0n/Projects/Personal/Blazor/BlazorToDoApp/TodoList/_Imports.razor"
+#line 7 "/Users/p0s31d0n/Projects/Personal/Blazor/NewBlazorToDoListApp/TodoList/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "/Users/p0s31d0n/Projects/Personal/Blazor/BlazorToDoApp/TodoList/_Imports.razor"
+#line 8 "/Users/p0s31d0n/Projects/Personal/Blazor/NewBlazorToDoListApp/TodoList/_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "/Users/p0s31d0n/Projects/Personal/Blazor/BlazorToDoApp/TodoList/_Imports.razor"
+#line 9 "/Users/p0s31d0n/Projects/Personal/Blazor/NewBlazorToDoListApp/TodoList/_Imports.razor"
 using TodoList;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "/Users/p0s31d0n/Projects/Personal/Blazor/BlazorToDoApp/TodoList/_Imports.razor"
+#line 10 "/Users/p0s31d0n/Projects/Personal/Blazor/NewBlazorToDoListApp/TodoList/_Imports.razor"
 using TodoList.Shared;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/p0s31d0n/Projects/Personal/Blazor/BlazorToDoApp/TodoList/Pages/FetchData.razor"
+#line 3 "/Users/p0s31d0n/Projects/Personal/Blazor/NewBlazorToDoListApp/TodoList/Pages/FetchData.razor"
 using TodoList.Data;
 
 #line default
@@ -98,7 +98,7 @@ using TodoList.Data;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 39 "/Users/p0s31d0n/Projects/Personal/Blazor/BlazorToDoApp/TodoList/Pages/FetchData.razor"
+#line 39 "/Users/p0s31d0n/Projects/Personal/Blazor/NewBlazorToDoListApp/TodoList/Pages/FetchData.razor"
        
     private WeatherForecast[] forecasts;
 
